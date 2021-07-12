@@ -1,0 +1,65 @@
+﻿     <Window x:Class="interfejs_pizzy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:interfejs_pizzy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="640" MinHeight="800 " MinWidth="640">
+    <Grid>
+        <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>    
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBox TextAlignment="Center" VerticalAlignment="Center" FontSize="36" FontWeight="Bold" IsReadOnly="True" BorderThickness="0">Pizza Menu</TextBox>
+
+        <ComboBox  Grid.Row="1">
+            <RadioButton Name="margarita" Margin="5" Checked="checked_pizza_margerita">Margarita</RadioButton>
+            <RadioButton Name="meksykanska" Margin="5" Checked="checked_pizza_meksykanska">Meksykańska</RadioButton>
+            <RadioButton Name="pepperoni" Margin="5" Checked="checked_pizza_pepperoni">Pepperoni</RadioButton>
+            <RadioButton Name="capriciosa" Margin="5" Checked="checked_pizza_capriciosa">Capriciosa</RadioButton>
+            <RadioButton Name="americano" Margin="5" Checked="checked_pizza_americano">Americano</RadioButton>
+        </ComboBox>
+
+        <GroupBox Header="Dodatki" Grid.Row="3" VerticalAlignment="Center" Padding="20">
+            <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <CheckBox Name="add_ser" Margin="5" Checked="checked_add_ser" Unchecked="unchecked_add_ser">Dodatkowy ser</CheckBox>
+                <CheckBox Name="add_bekon" Margin="5" Checked="checked_add_bekon" Unchecked="unchecked_add_bekon">Bekon</CheckBox>
+                <CheckBox Name="add_pieczarki" Margin="5" Checked="checked_add_pieczarki" Unchecked="unchecked_add_pieczarki">Pieczarki</CheckBox>
+                <CheckBox Name="add_papryka" Margin="5" Checked="checked_add_papryka" Unchecked="unchecked_add_papryka">Papryka</CheckBox>
+                <CheckBox Name="add_salami" Margin="5" Checked="checked_add_salami" Unchecked="unchecked_add_salami">Salami</CheckBox>
+                <CheckBox Name="add_szynka" Margin="5" Checked="checked_add_szynka" Unchecked="unchecked_add_szynka">Szynka</CheckBox>
+                <CheckBox Name="add_paprykaJalapeno" Margin="5" Checked="checked_add_paprykaJalapeno" Unchecked="unchecked_add_paprykaJalapeno">Papryka Jalapeno</CheckBox>
+            </WrapPanel>
+        </GroupBox>
+
+        <GroupBox Header="Rozmar pizzy" Grid.Row="2" VerticalAlignment="Center" Padding="20">
+            <WrapPanel Orientation="Horizontal">         
+                <RadioButton Name="rozmiar_mala" Margin="5" Checked="checked_size_small" Unchecked="unchecked_size_small">Mała</RadioButton>
+                <RadioButton Name="rozmiar_srednia" Margin="5" Checked="checked_size_medium" Unchecked="unchecked_size_medium">Średnia</RadioButton>
+                <RadioButton Name="rozmiar_duza" Margin="5" Checked="checked_size_large" Unchecked="unchecked_size_large">Duża</RadioButton>
+            </WrapPanel>
+        </GroupBox>
+        
+        <StackPanel  Grid.Row="4" VerticalAlignment="Center">
+            <Label Name="l1" HorizontalAlignment="Center"></Label>
+            <Slider Name="ostrosc" ValueChanged="hot_changed" Minimum="1" Maximum="5"/>                        
+        </StackPanel>
+
+        <TextBox Name="uwagi" Grid.Row="5" Text="Uwagi do zamówienia:" GotFocus="uwagi_gotfocus"></TextBox>
+
+        <Label Name="podusmowanie" Grid.Row="6" Content="Podsumowanie:"></Label>
+        
+        <Button Name="zamow_button" Grid.Row="7" Click="zamow_click">Zamów</Button>
+        
+    </Grid>
+</Window>

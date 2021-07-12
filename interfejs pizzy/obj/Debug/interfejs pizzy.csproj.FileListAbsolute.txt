@@ -1,0 +1,28 @@
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.exe.config
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.exe
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.pdb
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.g.resources
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs_pizzy.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.exe
+C:\Users\Krzysztof\source\repos\interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.pdb
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.exe.config
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\bin\Debug\interfejs pizzy.pdb
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.csprojAssemblyReference.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\MainWindow.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\App.g.cs
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy_MarkupCompile.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy_MarkupCompile.lref
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\MainWindow.baml
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.g.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs_pizzy.Properties.Resources.resources
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.csproj.GenerateResource.cache
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.exe
+C:\Users\Krzysztof\source\repos\Krzysztof_Piotrowski_.NET\2_interfejs pizzy\interfejs pizzy\obj\Debug\interfejs pizzy.pdb
